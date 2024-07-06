@@ -1,0 +1,15 @@
+{
+  "name": "ziyu-user",
+  "version": "0.0.3",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "echo hello v-user",
+    "build": "echo build v-user",
+    "del": "rimraf node_modules"
+  },
+  "dependencies": {
+    "lodash": "3"
+  },
+  "gitHead": "ad23fe31910a3183a80cd4fea91986474ae862b5"
+}

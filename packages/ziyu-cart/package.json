@@ -1,0 +1,16 @@
+{
+  "name": "ziyu-cart",
+  "version": "0.0.3",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "echo hello v-cart",
+    "build": "echo build v-cart",
+    "test": "node index.js",
+    "del": "rimraf node_modules"
+  },
+  "dependencies": {
+    "ziyu-user": "workspace:*"
+  },
+  "gitHead": "ad23fe31910a3183a80cd4fea91986474ae862b5"
+}
